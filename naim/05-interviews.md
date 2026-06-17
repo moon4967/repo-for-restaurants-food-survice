@@ -1,7 +1,7 @@
 
 # Restaurant Food Ordering System - Interviews
 
-> ⚠️ Note: Content below is a realistic sample/template to demonstrate format and depth. Replace with notes from interviews you actually conduct before final submission.
+>  Note: Content below is a realistic sample/template to demonstrate format and depth. Replace with notes from interviews you actually conduct before final submission.
 
 ## Executive Summary
 Interviews were conducted with the restaurant owner, front-of-house staff, and a regular customer to capture first-hand insight into current ordering pain points, directly informing the Problem Statement and later requirements.
