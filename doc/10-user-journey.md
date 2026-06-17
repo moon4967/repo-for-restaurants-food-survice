@@ -155,7 +155,3 @@ Discovery → Browsing → Cart → Checkout → Payment → Confirm → Track �
 
 *Lowest point: Payment stage — must be made as smooth and reassuring as possible.*
 
----
-
-*Document prepared by: Member 2*  
-*Branch: docs/prd*
