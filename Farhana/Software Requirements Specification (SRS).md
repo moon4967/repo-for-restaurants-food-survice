@@ -177,5 +177,5 @@ The Restaurant Food Ordering System enables customers to browse menus, place ord
 
 ---
 
-*Document prepared by: Member 1*  
-*Last updated: 2025*
+*Document prepared by: Farhana*  
+*Last updated: 18-06-2026*
